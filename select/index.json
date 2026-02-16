@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "カルチャ",
+  "base_artist": "ツミキ",
+  "createdAt": "2026-02-16T16:54:30.830391Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カルチャ (feat. 初音ミク)",
+      "artist": "ツミキ feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_カルチャ_(feat._初音ミク)_ツミキ_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カルチャ (feat. 初音ミク)",
+      "artist": "ツミキ",
+      "has_synced": true,
+      "path": "select/02_カルチャ_(feat._初音ミク)_ツミキ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カルチャ (feat. 初音ミク)",
+      "artist": "ツミキ",
+      "has_synced": true,
+      "path": "select/03_カルチャ_(feat._初音ミク)_ツミキ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カルチャ",
+      "artist": "ツミキ feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/04_カルチャ_ツミキ_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カルチャ (feat. 初音ミク)",
+      "artist": "ツミキ; Hatsune Miku",
+      "has_synced": false,
+      "path": "select/05_カルチャ_(feat._初音ミク)_ツミキ;_Hatsune_Miku.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カルチャ",
+      "artist": "ツミキ, 初音ミク",
+      "has_synced": true,
+      "path": "select/06_カルチャ_ツミキ,_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カルチャ / ツミキ feat. 初音ミク",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/07_カルチャ___ツミキ_feat._初音ミク_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "【Adoと初音ミク】カルチャ 歌いました #MikuChallenge",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_【Adoと初音ミク】カルチャ_歌いました__MikuChallenge_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カルチャ",
+      "artist": "ツミキ & 初音ミク",
+      "has_synced": true,
+      "path": "select/09_カルチャ_ツミキ_&_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カルチャ (feat. 初音ミク)",
+      "artist": "ツミキ, 初音ミク",
+      "has_synced": true,
+      "path": "select/10_カルチャ_(feat._初音ミク)_ツミキ,_初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カルチャ",
+      "artist": "ツミキ Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_カルチャ_ツミキ_Feat._初音ミク.txt"
+    }
+  ]
+}
